@@ -21,11 +21,11 @@ public class Main {
 
           //task 3
 
-               var dogTotal = dog - 3.5;
+               var dogTotal = dogs - 3.5;
                System.out.println(dogTotal);
-               var catTotal = cat - 1.6;
+               var catTotal = cats - 1.6;
                System.out.println(catTotal);
-               var paperTotal = paper - 7639;
+               var paperTotal = papers - 7639;
                System.out.println(paperTotal);
 
           //task 4
