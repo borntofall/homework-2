@@ -12,38 +12,38 @@ public class Main {
 
           //task 2
 
-               var dogs = dog * 4;
-               System.out.println("Всего " + dogs + " собаки" );
-               var cats = cat * 4;
-               System.out.println("Всего " + cats + " кота");
-               var papers = paper * 4;
-               System.out.println("Всего " + papers + " метров бумаги");
+               dog = dog * 4;
+               System.out.println("Всего " + dog + " собаки" );
+               cat = cat * 4;
+               System.out.println("Всего " + cat + " кота");
+               paper = paper * 4;
+               System.out.println("Всего " + paper + " метров бумаги");
 
           //task 3
 
-               var dogTotal = dogs - 3.5;
+               var dogTotal = dog - 3.5;
                System.out.println(dogTotal);
-               var catTotal = cats - 1.6;
+               var catTotal = cat - 1.6;
                System.out.println(catTotal);
-               var paperTotal = papers - 7639;
+               var paperTotal = paper - 7639;
                System.out.println(paperTotal);
 
           //task 4
 
                var friend = 19;
                System.out.println(friend);
-               var friends = friend + 2;
-               System.out.println(friends);
-               var quantityFriends = friends / 7;
+                friend = friend + 2;
+               System.out.println(friend);
+               var quantityFriends = friend / 7;
                System.out.println(quantityFriends);
 
           //task 5
 
                var frog = 3.5;
                System.out.println(frog);
-               var frogs = frog * 10;
-               System.out.println(frogs);
-               var frogsTotal = frogs / 3.5;
+               frog = frog * 10;
+               System.out.println(frog);
+               var frogsTotal = frog / 3.5;
                System.out.println(frogsTotal);
                var frogsTotalLeft = frogsTotal + 4;
                System.out.println(frogsTotalLeft);
