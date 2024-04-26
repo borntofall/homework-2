@@ -21,12 +21,12 @@ public class Main {
 
           //task 3
 
-               var dogTotal = dog - 3.5;
-               System.out.println(dogTotal);
-               var catTotal = cat - 1.6;
-               System.out.println(catTotal);
-               var paperTotal = paper - 7639;
-               System.out.println(paperTotal);
+               dog = dog - 3.5;
+               System.out.println(dog);
+               cat = cat - 1.6;
+               System.out.println(cat);
+               paper = paper - 7639;
+               System.out.println(paper);
 
           //task 4
 
@@ -34,8 +34,8 @@ public class Main {
                System.out.println(friend);
                 friend = friend + 2;
                System.out.println(friend);
-               var quantityFriends = friend / 7;
-               System.out.println(quantityFriends);
+               friend = friend / 7;
+               System.out.println(friend);
 
           //task 5
 
@@ -43,10 +43,10 @@ public class Main {
                System.out.println(frog);
                frog = frog * 10;
                System.out.println(frog);
-               var frogsTotal = frog / 3.5;
-               System.out.println(frogsTotal);
-               var frogsTotalLeft = frogsTotal + 4;
-               System.out.println(frogsTotalLeft);
+               frog = frog / 3.5;
+               System.out.println(frog);
+               frog = frog + 4;
+               System.out.println(frog);
 
            //task 6
 
